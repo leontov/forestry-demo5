@@ -14,7 +14,7 @@ fields:
   type: file
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
-  default: ''
+  default: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 - name: tags
   label: Tags
   type: tag_list
@@ -25,3 +25,6 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  label: qaz
+  name: qaz
