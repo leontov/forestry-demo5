@@ -1,5 +1,7 @@
 ---
+label: Project
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
@@ -28,3 +30,7 @@ fields:
 - type: file
   label: qaz
   name: qaz
+pages:
+- _projects/epilepsy-monitoring.md
+- _projects/electric-vehicle-design.md
+- _projects/modern-engineering.md
